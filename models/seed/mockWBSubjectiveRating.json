@@ -1,0 +1,42 @@
+[
+    {
+        "subjectiveRatingID":1,
+        "name":"Not at all",
+        "rate":0,
+        "isActive":1,
+        "createdByUserID":1,
+        "lastUpdatedUserID":1
+    },
+    {
+        "subjectiveRatingID":2,
+        "name":"A little",
+        "rate":1,
+        "isActive":1,
+        "createdByUserID":1,
+        "lastUpdatedUserID":1
+    },
+    {
+        "subjectiveRatingID":3,
+        "name":"Moderately",
+        "rate":2,
+        "isActive":1,
+        "createdByUserID":1,
+        "lastUpdatedUserID":1
+    },
+    {
+        "subjectiveRatingID":4,
+        "name":"Quite a bit",
+        "rate":3,
+        "isActive":1,
+        "createdByUserID":1,
+        "lastUpdatedUserID":1
+    },
+    {
+        "subjectiveRatingID":5,
+        "name":"Extremely",
+        "rate":4,
+        "isActive":1,
+        "createdByUserID":1,
+        "lastUpdatedUserID":1
+    }
+]
