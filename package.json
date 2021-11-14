@@ -1,12 +1,12 @@
 {
-  "name": "atlas-server",
+  "name": "wellness-server",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "startdev": "nodemon app.js | bunyan",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "startpm2": "pm2 start app.js --name atlas| bunyan"
+    "startpm2": "pm2 start app.js --name wellness| bunyan"
   },
   "keywords": [
     "nodejs",
